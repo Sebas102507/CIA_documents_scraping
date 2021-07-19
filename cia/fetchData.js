@@ -36,7 +36,7 @@ fetch(
       data-parent="#accordion"
     >
       <div class="card-body">
-        ${x.info}
+        ${x.body}
         <br>
         <br>
         <a href=${x.url} target="_blank">Ver más</a>
