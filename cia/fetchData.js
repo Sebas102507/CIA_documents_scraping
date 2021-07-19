@@ -39,7 +39,7 @@ fetch(
         ${x.body}
         <br>
         <br>
-        <a href=${x.url} target="_blank">Ver más</a>
+        <a href=${x.url} target="_blank">See more...</a>
       </div>
     </div>
   </div>
